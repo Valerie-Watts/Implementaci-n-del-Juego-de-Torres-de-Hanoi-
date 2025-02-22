@@ -1,0 +1,7 @@
+D:\Users\valer\OneDrive\Escritorio\Torres de Hanoi\Torres de Hanoi-2\Torres de Hanoi-2\obj\Debug\Torres de Hanoi-2.csproj.AssemblyReference.cache
+D:\Users\valer\OneDrive\Escritorio\Torres de Hanoi\Torres de Hanoi-2\Torres de Hanoi-2\obj\Debug\Torres de Hanoi-2.csproj.CoreCompileInputs.cache
+D:\Users\valer\OneDrive\Escritorio\Torres de Hanoi\Torres de Hanoi-2\Torres de Hanoi-2\bin\Debug\Torres de Hanoi-2.exe.config
+D:\Users\valer\OneDrive\Escritorio\Torres de Hanoi\Torres de Hanoi-2\Torres de Hanoi-2\bin\Debug\Torres de Hanoi-2.exe
+D:\Users\valer\OneDrive\Escritorio\Torres de Hanoi\Torres de Hanoi-2\Torres de Hanoi-2\bin\Debug\Torres de Hanoi-2.pdb
+D:\Users\valer\OneDrive\Escritorio\Torres de Hanoi\Torres de Hanoi-2\Torres de Hanoi-2\obj\Debug\Torres de Hanoi-2.exe
+D:\Users\valer\OneDrive\Escritorio\Torres de Hanoi\Torres de Hanoi-2\Torres de Hanoi-2\obj\Debug\Torres de Hanoi-2.pdb
