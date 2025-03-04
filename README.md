@@ -22,15 +22,25 @@ Se deben trasladar todos los discos desde la torre de origen hasta la torre de d
 
 Ejemplo de Uso
 
-Seleccione una opción:
-1. Agregar elemento
-2. Eliminar elemento
-3. Buscar elemento
-4. Mostrar lista
-5. Salir
+Insert the number of disks from 1-7: 3
+  ^     ^     ^   
+  |     |     |   
+ ***    |     |   
+*****   |     |   
+******* |     |   
 
-Opción: 1
+Move a disk from one tower to another.
 
-Ingrese el valor a agregar: 25
+Enter from what tower you want to move the disk (1, 2, or 3): 1
 
-Elemento agregado correctamente.
+Enter the tower you want to move it to (1, 2, or 3): 3
+
+Moved a disk from tower 1 to tower 3
+  ^     ^     ^   
+  |     |     |   
+ ***    |    ***  
+*****   |     |   
+******* |     |   
+...
+
+Congratulations! You've solved the Tower of Hanoi!
