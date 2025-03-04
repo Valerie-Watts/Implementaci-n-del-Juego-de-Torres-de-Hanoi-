@@ -19,3 +19,18 @@ Solo se puede mover un disco a la vez.
 Un disco solo puede colocarse sobre un disco más grande o en una torre vacía.
 
 Se deben trasladar todos los discos desde la torre de origen hasta la torre de destino utilizando la torre auxiliar.
+
+Ejemplo de Uso
+
+Seleccione una opción:
+1. Agregar elemento
+2. Eliminar elemento
+3. Buscar elemento
+4. Mostrar lista
+5. Salir
+
+Opción: 1
+
+Ingrese el valor a agregar: 25
+
+Elemento agregado correctamente.
